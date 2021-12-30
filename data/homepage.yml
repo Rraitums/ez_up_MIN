@@ -1,0 +1,76 @@
+################## Hero area ##################
+hero_area:
+  enable: true
+  bg_image: "images/header.jpeg"
+  overlay: true
+
+################### Gallery ###################
+gallery:
+  enable: true
+  title: "GALERIJA"
+  images:
+    - "images/slider/slider-img-1.jpeg"
+    - "images/slider/slider-img-2.jpeg"
+    - "images/slider/slider-img-3.jpeg"
+    - "images/slider/slider-img-4.jpeg"
+    - "images/slider/slider-img-1.jpeg"
+    - "images/slider/slider-img-2.jpeg"
+    - "images/slider/slider-img-3.jpeg"
+    - "images/slider/slider-img-4.jpeg"
+
+################ About #######################
+about:
+  enable: true
+  image: "images/cooker-img.png"
+  title: "Vieta atpūtai<span> Ezerupe</span> "
+  description: " Atrodamies Valmieras novadā ,Vecates pagastā skaistā vietā pie Salacas  upes. Netālu atrodas Riņņukalns Salacas kreisajā krastā pie iztekas no Burtnieku ezera, kas ir arheoloģijas piemineklis. Ap Riņņu kalnu cilvēki dzīvojuši kopš vissenākajiem laikiem. Burtnieku ezera apkārtne ir viena no izcilākajām Eiropas mēroga akmens laikmeta apdzīvotajām vietām . Vecates laivu bāze ‘’Ezerupe’’ zem citiem nosaukumiem bijusi jau sen. Jau daudz gadu atpakaļ šeit rosijās tauta , makšķernieki, mednieki un ūdensmoto sporta cienītāji. Mūsu mērķis atdzīvināt šo vietu un dot iespēju Jums izrauties no ikdienas un atpūsties šai skaistajā vietā. Mūsu bāzē iespējama nakšņošana teltīs, ir ugunskura un piknika vieta. Piedāvājumā ir arī gultas vietas bāzes mājā. Gultas vietas istabā 6. un 2. personām.   Visiem, kas izmanto mūsu pakalpojumus stāvlaukums par brīvu."
+
+################# Blog ######################
+
+################# Cenas ################
+pricing:
+  enable: true
+  title: "<span>CENAS</span>"
+  bg_image: "images/blog/4.jpeg"
+  description: "  Mēs piedāvājam dažādākās atpūtas iespējas..."
+  subtitle: "PAKALPOJUMI"
+  pricing_item:
+    - title: "Laiva Terhi 395 un Amber 430"
+      description: "Diena (12h) = 10 € / Līdz 2h darba dienās = 5 € Glābšanas vestes,enkurs par brīvu."
+      price: "€ 10.00 / 5.00"
+
+    - title: "Motors PARSUN' 2,6 BMS6"
+      description: "Dienā (12 h) = 20.00 € / Līdz 2h = 10.00 € komplektā nāk bāka ar degvielu"
+      price: "€ 20.00 / 10.00"
+
+    - title: "Kanoe / Kajaki laivu īre"
+      description: "Divvietīgas un vienvietīgas laivas. 1.diena - € 25.00; 2.diena - € 20.00; 3.diena - € 15.00; 4.diena - € 10.00 Komplektā: Glābšanas vestes, airi, hermētiskais maiss"
+      price: "€ 25.00 / 20.00 / 15.00 / 10.00"
+
+    - title: "SUP dēļi"
+      description: "Īre līdz 2 stundām: € 5.00; uz 24 stundām: € 25.00 Komplektā: Glābšanas vestes, airis "
+      price: "€ 25.00 / 5.00"
+
+    - title: "Gultas vietas"
+      description: "Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, Elektriskā plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 15.00"
+
+    - title: "Dzīvojamais vagons 6 personām"
+      description: "Līdz 6 personām uz 24 stundām 3. guļam istabas. Komplektā ietilpst: Gultas veļa, dvielis, WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 75.00"
+
+    - title: "Dzīvojamais vagons 2 personām"
+      description: "Līdz 2 personām uz 24 stundām. Komplektā ietilpst: Gultas veļa, dvielis, koplietošanas WC, Ledusskapis, gāzes plīts, Mikroviļņu krāsns, Tējkanna, Trauki"
+      price: "€ 35.00"
+
+    - title: "Stāvlaukums un slips"
+      description: "Uz 24 stundām"
+      price: "€ 5.00"
+
+    - title: "Telts vieta vienai personai"
+      description: "Uz 24 stundām. Bērniem līdz 16 gadiem bezmaksas komplektā: Grils, Malka, koplietošanas WC, auto stāvieta"
+      price: "€ 7.00"
+
+    - title: "Transportēšanas un laivu piegādes cena pēc vienošanās."
+      description: "Cena sākot no ... par KM"
+      price: "€ 7.00"
